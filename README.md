@@ -18,6 +18,9 @@ http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage
 - Download from repository
 - Open Projects folder and copy myCalender to your Project folder for Visual Studio 2010 Express Visual Web Developer
 - Open Websites folder and copy myCalender to your Websites folder for Visual Studio 2010 Express Visual Web Developer
+- Click on the myCalendar.sln in the Project/ folder
+- Once Visual Web Developer loads, click on Debug -> Build Website
+- After build, right click on Default.aspx and Show in Browser
 
 *REPORTING ISSUES*
 
