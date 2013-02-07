@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "myCalendar", "..\..\WebSites\myCalendar\", "{8C898E3B-FB32-4E0C-AC7C-86BAD07B60BE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/myCalendar"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\myCalendar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\myCalendar\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/myCalendar"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\myCalendar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\myCalendar\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54766"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C898E3B-FB32-4E0C-AC7C-86BAD07B60BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C898E3B-FB32-4E0C-AC7C-86BAD07B60BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
