@@ -1,13 +1,17 @@
 # Build and Object Folders
 bin/
 obj/
-_archive/
+__MACOSX/
+_notes/
 _install_files/
+_archive/
+_design/
 .svn/
 
 #User Specific Files
 *.user
 *.suo
+._*
 .DS_Store
 
 ## Ignore Visual Studio temporary files, build results, and
