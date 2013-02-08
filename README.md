@@ -26,4 +26,4 @@ http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage
 
 Thank you for downloading the ASP.NET Events Calendar 1.0
 If you find any issues, please report them in the issue tracker on our website:
-http://lab.thesoftwarepeople.com/tracker/
+http://lab.thesoftwarepeople.com/tracker/opensource-aec
