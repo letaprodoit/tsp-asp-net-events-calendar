@@ -2,6 +2,7 @@ ASP.NET EVENTS CALENDAR 1.0
 -------
 Learn more about ASP.NET and download this Website project file built in Visual Studio 2010 Express Web Developer IDE. 
 Project download includes the following functionalities:
+
 * Dynamic Data Website
 * LINQ to SQL
 * SQL Server Database Items
@@ -10,7 +11,7 @@ Project download includes the following functionalities:
 * jQuery
 
 For up-to-date installation and setup notes, visit the FAQ:
-http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage
+[http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage](http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage)
 
 
 *GENERAL INSTALLATION NOTES*
@@ -26,7 +27,7 @@ http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage
 
 Thank you for downloading the ASP.NET Events Calendar 1.0
 If you find any issues in ASP.NET Events Calendar 1.0, please report them in the issue 
-tracker on our website: http://lab.thesoftwarepeople.com/tracker/opensource-aec
+tracker on our website: [http://lab.thesoftwarepeople.com/tracker/opensource-aec](http://lab.thesoftwarepeople.com/tracker/opensource-aec)
 
 
 *COPYRIGHT AND LICENSE*
